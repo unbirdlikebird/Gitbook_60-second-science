@@ -1,5 +1,8 @@
 #About
 
-this book is the transcript of 60-Second Science, content, mp3, link everything is from http://www.scientificamerican.com. The purpose is improve my english, and easy to put in my kindle.
+This is the transcript of 60-Second Science,
+everything is from http://www.scientificamerican.com. 
 
-If I am doing this way is illegal, please let me know, i will remove it.
+The purpose is to improve my english, and easy to read when i use my kindle.
+
+If this way is illegal, please let me know, i will remove it from public.

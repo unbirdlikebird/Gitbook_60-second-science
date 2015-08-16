@@ -1,6 +1,6 @@
 # Women Left out in Cold by Office A-C Standards
 
-
+[Download MP3](http://www.scientificamerican.com/podcast/podcast.mp3?fileId=64CD446C-1282-44A6-A5FA474B061000C7&ref=sciam)
 
 A question for the ladies: do you keep a sweater at your workplace desk even in the summer? Or maybe especially in the summer? Well, before you go blaming your internal thermostat, listen to this: a new study shows that the air-conditioning in many buildings is set to keep men feeling comfy. The findings are served up in the journal Nature Climate Change. [Boris Kingma and Wouter van Marken Lichtenbelt, Energy consumption in buildings and female thermal demand]
 

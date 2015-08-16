@@ -1,0 +1,13 @@
+# MSpicy Food Linked to Lower Risk of Death
+
+[Download MP3](http://www.scientificamerican.com/podcast/podcast.mp3?fileId=64AF09D9-9270-4E24-8452D3FCEAB1DF60&ref=sciam)
+
+Chinese cuisine has a lot of [blazingly spicy dishes](http://blogs.scientificamerican.com/thoughtful-animal/on-capsaicin-why-do-we-eat-love-hot-peppers/), like mapo tofu and hot pot. And, of course, there's the ever-present chili oil. “I like spicy food myself.” Lu Qi, an epidemiologist at the Harvard School of Public Health. “Almost every day, I eat spicy food.” That spicy tradition served as scientific inspiration for Qi: he and colleagues performed a study which found that [a daily dose of chilies](http://blogs.scientificamerican.com/anthropology-in-practice/why-do-some-like-it-hot/) might actually be a boon to your health.
+
+The researchers enrolled nearly half a million Chinese volunteers, aged 30 to 79. They quizzed them on their affinity for fiery foods, and followed each study subject for an average of seven years. During that time, more than 20,000 of the subjects died. But after controlling for factors like smoking history and income, the scientists found that the risk of death was 10 percent lower in those who ate spicy food a couple times a week, compared with those who abstained. And daily chili eaters, like Lu, had a 14 percent lower risk of dying. That figure held true for both men and women. And yes, while it is a relatively modest effect, Lu says to keep in mind: we're just talking about chilies here. "It's not medicine." The findings appear in the British Medical Journal. [Jun Lv et al, [Consumption of spicy foods and total and cause specific mortality: population based cohort study](http://www.bmj.com/content/351/bmj.h3942)]
+
+Previous studies have shown that capsaicin, the active ingredient in chillies, has anti-inflammatory and antimicrobial effects, among others. But before you grab the Tabasco, this study does not prove causation. For example, could be that people with weaker constitutions avoid spicy foods—making chili lovers appear more hardy in comparison. And the authors do not recommend starting a chili habit if you already have a sensitive stomach. But at least one thing's clear: indulging in spicy food probably won’t hurt. Other than, well, your tongue.
+
+—Christopher Intagliata
+
+[Original Page](http://www.scientificamerican.com/podcast/episode/spicy-food-linked-to-lower-risk-of-death/)

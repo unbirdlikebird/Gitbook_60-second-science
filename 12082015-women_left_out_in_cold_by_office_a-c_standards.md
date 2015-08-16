@@ -2,7 +2,7 @@
 
 [Download MP3](http://www.scientificamerican.com/podcast/podcast.mp3?fileId=64CD446C-1282-44A6-A5FA474B061000C7&ref=sciam)
 
-A question for the ladies: do you keep a sweater at your workplace desk even in the summer? Or maybe especially in the summer? Well, before you go blaming your internal thermostat, listen to this: a new study shows that the air-conditioning in many buildings is set to keep men feeling comfy. The findings are served up in the journal Nature Climate Change. [Boris Kingma and Wouter van Marken Lichtenbelt, Energy consumption in buildings and female thermal demand]
+[A question for the ladies](http://www.scientificamerican.com/article/his-brain-her-brain-2012-10-23/): do you keep a sweater at your workplace desk even in the summer? Or maybe especially in the summer? Well, before you go blaming your internal thermostat, listen to this: [a new study shows that the air-conditioning in many buildings is set to keep men feeling comfy](http://www.scientificamerican.com/article/your-thermostat-may-be-sexist1/). The findings are served up in the journal Nature Climate Change. [Boris Kingma and Wouter van Marken Lichtenbelt, [Energy consumption in buildings and female thermal demand](http://www.nature.com/nclimate/journal/vaop/ncurrent/full/nclimate2741.html)]
 
 People lose productivity when they spend all day shivering or sweating. But finding that sweet spot—a temperature where everyone is happy—can be a real challenge. Offices are heated in winter and chilled in summer. But these indoor climate-control systems are based on standards established in the 1960s, when the standard setters envisioned the typical office worker to be a man, 40-years-old and weighing 150 pounds.
 
@@ -12,3 +12,4 @@ The findings also suggest that companies can conserve energy and save money by t
 
 —Karen Hopkin
 
+[Original Page](http://www.scientificamerican.com/podcast/episode/women-left-out-in-cold-by-office-a-c-standards/)

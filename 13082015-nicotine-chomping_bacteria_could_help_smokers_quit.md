@@ -11,3 +11,5 @@ It does the trick with a nicotine-chomping enzyme. So Janda and his colleagues a
 But Janda says the enzyme isn't ready for primetime yet. It's bacterial—so "you're going to get an immune response, immune surveillance from it." And right now, the other important half-life, that of the enzyme in serum, is only 3 days. So it won’t stick around long enough to be an effective vaccine. "A month would be great, a week or two would also be reasonable." While the researchers work out the kinks, smokers will have to rely on the tried-and-true methods of quitting: counseling, medication or good old cold turkey.
 
 —Christopher Intagliata
+
+[Original Page](http://www.scientificamerican.com/podcast/episode/nicotine-chomping-bacteria-could-help-smokers-quit/)
